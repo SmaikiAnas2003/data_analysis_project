@@ -46,6 +46,3 @@ Le projet contient les fichiers suivants :
 - Jupyter Notebook
 - Pandas, NumPy pour la manipulation des données
 - Matplotlib, Seaborn pour la visualisation
-- Git pour le contrôle de version
-git clone https://github.com/<votre_nom_utilisateur>/<nom_du_repo>.git
-cd <nom_du_repo>
