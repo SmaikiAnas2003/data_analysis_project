@@ -1,0 +1,21 @@
+# Ignorer tous les fichiers CSV
+*.csv
+
+# Ignorer l'environnement virtuel
+.venv/
+
+# Ignorer les fichiers et dossiers spécifiques à PyCharm
+.idea/
+
+# Ignorer les fichiers temporaires Windows
+Thumbs.db
+Desktop.ini
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
